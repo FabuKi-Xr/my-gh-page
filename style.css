@@ -13,3 +13,6 @@ hr{
     margin-top: -30px;
 
 }
+body{
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+}
