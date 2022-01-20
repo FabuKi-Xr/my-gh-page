@@ -1,4 +1,5 @@
 # my-gh-page
-This is my GitHub page :3
+This is my GitHub page :sunny:
 ---
  
+link : [Page](https://fabuki-xr.github.io/my-gh-page/)
